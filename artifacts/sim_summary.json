@@ -1,0 +1,26 @@
+{
+  "kpis": {
+    "lead_time_reduction_pct": 0.1029706405997393,
+    "profit_stability_pct": 65.45251623376623,
+    "confidence": 99.06136854422479,
+    "coverage_products_pct": 73.33333333333333,
+    "coverage_volume_pct": 97.12258573117856
+  },
+  "cluster": {
+    "k": 6,
+    "silhouette": 0.2796573963862171,
+    "silhouette_by_k": {
+      "2": 0.2431380931748033,
+      "3": 0.22315137614170305,
+      "4": 0.25542959109622726,
+      "5": 0.24799773785047946,
+      "6": 0.2796573963862171
+    },
+    "n_routes": 75,
+    "n_slow_sig_routes": 6,
+    "n_slow_consistent": 6,
+    "n_congested": 2,
+    "n_slow_sig_combos": 0,
+    "n_combos": 28
+  }
+}
